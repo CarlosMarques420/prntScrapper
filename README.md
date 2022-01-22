@@ -15,7 +15,7 @@ prnt.sc is a image hosting website generally used to store printscreens. Often t
 
 ### Executing the script
 
-* prntScrapper [number of images to scrape] 
+* ./prntScrapper.sh [number of images to scrape] 
 
 ```
 prntScrapper 100
